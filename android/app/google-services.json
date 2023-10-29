@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "477118897090",
+    "project_id": "cup-user-app",
+    "storage_bucket": "cup-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477118897090:android:8007f087986c9d6607545b",
+        "android_client_info": {
+          "package_name": "com.sc.cup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477118897090-c13lf2lqubhgkr28aju00mvh9upgmu45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XbiqL6wWPP93px0GeVh-NYyp1ulwzf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477118897090-c13lf2lqubhgkr28aju00mvh9upgmu45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477118897090-9a71ikp0hvbg00vp6lh9dhnuvrfvq0mq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sc.cup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477118897090:android:60200276e36eba5f07545b",
+        "android_client_info": {
+          "package_name": "com.sc.cupdeliveryuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477118897090-c13lf2lqubhgkr28aju00mvh9upgmu45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XbiqL6wWPP93px0GeVh-NYyp1ulwzf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477118897090-c13lf2lqubhgkr28aju00mvh9upgmu45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477118897090-9a71ikp0hvbg00vp6lh9dhnuvrfvq0mq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sc.cup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
